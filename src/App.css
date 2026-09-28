@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.welcomescreen {
+    background-image: url('./assets/images/backgroundSolar.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
