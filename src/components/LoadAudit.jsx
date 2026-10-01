@@ -1,11 +1,11 @@
 import React from 'react'
+import Navigation from './Navigation'
 
 const LoadAudit = () => {
   return (
     <div className='bg-gray-200 h-[100vh] overflow-x-scroll'>
-      <div className='flex items-center justify-center py-3 bg-gray-500 sticky top-0'>
-        <h1 className='text-[1.2rem] font-bold text-white'>Load Audit</h1>
-      </div>
+      
+      <Navigation />
 
       {/* Input form */}
       <form action="">
